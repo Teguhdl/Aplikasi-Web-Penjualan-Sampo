@@ -1,4 +1,4 @@
-aplikasi dapat mendata masterdata,transaksi, dan memiliki hasil atau keluaran laporan keuangan.
+aplikasi admin yang dapat mendata masterdata,transaksi, dan memiliki hasil atau keluaran laporan keuangan berupa jurnal dan
 Aplikasi Ini merupakan project tugas besar mata kuliah pemograman framework dan dibangun menggunakan framework codeigniter 4 
 
 
